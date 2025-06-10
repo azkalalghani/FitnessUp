@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FitnessUp app color scheme -->
+    <color name="colorPrimary">#FF4CAF50</color>
+    <color name="colorPrimaryDark">#FF388E3C</color>
+    <color name="colorAccent">#FF03A9F4</color>
+    <color name="colorAccentDark">#FF0288D1</color>
+    
+    <!-- Background and text colors -->
+    <color name="background">#FFFAFAFA</color>
+    <color name="textPrimary">#DE000000</color>
+    <color name="textSecondary">#99000000</color>
+    
+    <!-- Chart colors -->
+    <color name="colorWeightGain">#F44336</color>
+    <color name="colorWeightLoss">#4CAF50</color>
+    
+    <!-- Default colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

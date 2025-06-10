@@ -1,0 +1,7 @@
+/build
+/src/main/res/values/dev/
+/src/main/res/values/secrets.xml
+*.jks
+keystore.properties
+local.properties
+google-services.json

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FitnessUp</string>
+    
+    <!-- Activity levels -->
+    <string-array name="activity_levels">
+        <item>Aktivitas Sangat Rendah</item>
+        <item>Aktivitas Rendah</item>
+        <item>Aktivitas Sedang</item>
+        <item>Aktivitas Tinggi</item>
+        <item>Aktivitas Sangat Tinggi</item>
+    </string-array>
+    
+    <!-- Time ranges for progress chart -->
+    <string-array name="time_ranges">
+        <item>Minggu Ini</item>
+        <item>Bulan Ini</item>
+        <item>3 Bulan Terakhir</item>
+        <item>6 Bulan Terakhir</item>
+        <item>Tahun Ini</item>
+        <item>Semua Waktu</item>
+    </string-array>
+    
+    <!-- Format strings -->
+    <string name="greeting">Halo, %1$s!</string>
+    <string name="target_weight_format">Target: %.1f kg</string>
+    <string name="current_weight_format">Berat: %.1f kg</string>
+    <string name="last_update_format">Terakhir diperbarui: %1$s</string>
+    
+    <!-- Material Design -->
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+</resources>
